@@ -1,0 +1,65 @@
+semester_id,class_id,department,class_name,student_id,final_grade
+F2024,101,Math,Algebra,4,85
+F2024,101,Math,Algebra,8,76
+F2024,101,Math,Algebra,11,90
+F2024,101,Math,Algebra,15,97
+F2024,102,Math,Geometry,1,93
+F2024,102,Math,Geometry,5,80
+F2024,102,Math,Geometry,9,72
+F2024,102,Math,Geometry,17,84
+F2024,103,Math,Statistics,2,88
+F2024,103,Math,Statistics,6,90
+F2024,103,Math,Statistics,10,82
+F2024,103,Math,Statistics,12,99
+F2024,103,Math,Statistics,13,85
+F2024,104,Math,Calculus,3,98
+F2024,104,Math,Calculus,7,86
+F2024,104,Math,Calculus,16,71
+F2024,201,Science,Biology,4,82
+F2024,201,Science,Biology,8,72
+F2024,201,Science,Biology,11,87
+F2024,201,Science,Biology,15,96
+F2024,202,Science,Chemistry,1,94
+F2024,202,Science,Chemistry,2,88
+F2024,202,Science,Chemistry,5,74
+F2024,202,Science,Chemistry,6,98
+F2024,202,Science,Chemistry,9,76
+F2024,202,Science,Chemistry,17,85
+F2024,203,Science,Physics,3,95
+F2024,203,Science,Physics,7,82
+F2024,203,Science,Physics,10,77
+F2024,203,Science,Physics,12,96
+F2024,203,Science,Physics,13,86
+F2024,203,Science,Physics,16,74
+F2024,301,Humanities,English,1,82
+F2024,301,Humanities,English,4,75
+F2024,301,Humanities,English,5,87
+F2024,301,Humanities,English,8,80
+F2024,301,Humanities,English,9,84
+F2024,301,Humanities,English,11,98
+F2024,301,Humanities,English,15,99
+F2024,301,Humanities,English,17,89
+F2024,302,Humanities,World History,2,75
+F2024,302,Humanities,World History,3,92
+F2024,302,Humanities,World History,6,95
+F2024,302,Humanities,World History,7,94
+F2024,302,Humanities,World History,10,84
+F2024,302,Humanities,World History,12,98
+F2024,302,Humanities,World History,13,82
+F2024,302,Humanities,World History,16,86
+F2024,401,General,Physical Education,1,85
+F2024,401,General,Physical Education,2,80
+F2024,401,General,Physical Education,4,95
+F2024,401,General,Physical Education,5,85
+F2024,401,General,Physical Education,6,95
+F2024,401,General,Physical Education,8,90
+F2024,401,General,Physical Education,9,90
+F2024,401,General,Physical Education,10,85
+F2024,401,General,Physical Education,11,95
+F2024,401,General,Physical Education,12,95
+F2024,401,General,Physical Education,13,90
+F2024,401,General,Physical Education,15,95
+F2024,404,General,Senior Seminar,3,
+F2024,404,General,Senior Seminar,7,
+F2024,404,General,Senior Seminar,16,
+F2024,404,General,Senior Seminar,17,

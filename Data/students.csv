@@ -1,0 +1,18 @@
+id,student_name,grade_level,gpa,school_lunch,birthday,email
+1,Abby Johnson,10,3.1,Yes,5/14/08,abby.johnson@mavenhighschool.com
+2,Bob Smith,11,3.1,No,9/30/07,bob.smith@mavenhighschool.com
+3,Catherine Davis,12,3.6,Yes,11/21/06,catherine.davis@mavenhighschool.com
+4,Daniel Brown,9,3.5,Yes,3/10/09,daniel.brown@mavenhighschool.edu
+5,Eva Martinez,10,2.7,No,2/5/08,eva.martinez@mavenhighschool.com
+6,Frank Wilson,11,3.2,No,7/17/07,frank.wilson@mavenhighschool.com
+7,Grace Lee,12,3,Yes,12/2/06,grace.lee@mavenhighschool.com
+8,Henry Taylor,9,3,Yes,6/8/09,
+9,Isabella Moore,10,2.8,Yes,1/19/08,isabella.moore@mavenhighschool.com
+10,Jack Thompson,11,2.9,Yes,4/25/07,jack.thompson@mavenhighschool.com
+11,Karen White,9,3.4,No,9/10/09,karen.white@mavenhighschool.edu
+12,Liam Green,10,4,Yes,8/3/08,liam.green@mavenhighschool.com
+13,Mia Harris,11,3,No,2/28/07,mia.harris@mavenhighschool.com
+14,Noah Scott,12,3.3,No,10/15/06,noah.scott@mavenparkdistrict.com
+15,Olivia Adams,9,3.7,Yes,12/11/09,olivia.adams@mavenhighschool.edu
+16,Peter Park,12,2.9,Yes,2/11/06,peter.park@mavenhighschool.com
+17,Noah Scott,12,3.3,No,10/15/06,noah.scott@mavenhighschool.com
